@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SchedulingTasks-Ex2"/>
+<aop-project name="ServerApplication"/>
+<aop-project name="EurekaServer"/>
+<aop-project name="demo1"/>
+</aop-reference-model>
